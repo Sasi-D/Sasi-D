@@ -27,8 +27,6 @@ Originally from **Andhra Pradesh, India**, I now call **Bengaluru** home.
 _IIT Madras | 2021 - 2025_
 
 **Relevant Coursework:**
-
-| **Course**                       | **Course**                          |
 |-----------------------------------|--------------------------------------|
 | Data Structures and Algorithms    | Operating Systems                   |
 | Computer Networks                 | Compiler Design                     |
