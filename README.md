@@ -28,12 +28,11 @@ _IIT Madras | 2021 - 2025_
 
 **Relevant Coursework:**
 
-| Data Structures and Algorithms    | Operating Systems                   |
-|-----------------------------------|--------------------------------------|
-| Computer Networks                 | Compiler Design                     |
-| Object-Oriented Programming (OOPS)| Pattern Recognition & Machine Learning |
-| Computer Organization, Architecture | Database Systems                  |
-| Probability & Statistics          | Design, Analysis of Algorithms      |
+| Data Structures and Algorithms    | Operating Systems                     |
+| Computer Networks                 | Compiler Design                       |
+| Object-Oriented Programming (OOPS) | Pattern Recognition & Machine Learning |
+| Computer Organization, Architecture | Database Systems                     |
+| Probability & Statistics          | Design, Analysis of Algorithms        |
 
 ---
 
