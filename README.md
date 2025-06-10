@@ -27,10 +27,11 @@ Originally from **Andhra Pradesh, India**, I now call **Bengaluru** home.
 _IIT Madras | 2021 - 2025_
 
 **Relevant Coursework:**
-|-----------------------------------|--------------------------------------|
+
 | Data Structures and Algorithms    | Operating Systems                   |
+|-----------------------------------|--------------------------------------|
 | Computer Networks                 | Compiler Design                     |
-| Object-Oriented Programming (OOPS) | Pattern Recognition & Machine Learning |
+| Object-Oriented Programming (OOPS)| Pattern Recognition & Machine Learning |
 | Computer Organization, Architecture | Database Systems                  |
 | Probability & Statistics          | Design, Analysis of Algorithms      |
 
@@ -85,4 +86,10 @@ _IIT Madras | 2021 - 2025_
 ⚽ I’m a sports enthusiast — football and cricket always keep me on my toes.  
 🔧 I love testing out new gadgets, from laptops to smartphones.  
 
+---
+
+<div align="center">
+
 😁 Thanks for visiting my corner of the internet!  
+
+</div>
