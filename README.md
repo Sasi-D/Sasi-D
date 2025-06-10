@@ -13,7 +13,7 @@ Originally from **Andhra Pradesh, India**, I now call **Bengaluru** home.
 
 - **SDE Intern** — Atlassian India  
   _May 2024 - July 2024_  
-  - Developed an orchestration engine with SDKs, APIs, and monitoring tools for seamless data migration (server-to-cloud & cloud-to-cloud).
+  - Worked on developing an orchestration engine with SDKs, APIs, and monitoring tools for seamless data migration (server-to-cloud & cloud-to-cloud).
   - Integrated **PiTest** for mutation testing (achieving 85% coverage).
   - Implemented Bitbucket CI/CD pipeline integrations for PR checks.
   - Automated pre-deployment stability checks (Pollinators).
