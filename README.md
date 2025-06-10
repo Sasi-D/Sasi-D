@@ -1,40 +1,90 @@
-# Hi there! 👋
-## 👤 Who am I?
-I’m Sasi, an undergraduate student at IIT Madras currently in my final year. I’m passionate about a variety of fields including:
-- **Networks:** Exploring and understanding the intricacies of network systems.
-- **Linux:** Diving deep into Linux environments and administration.
-- **Data Streams using Kafka:** Working with real-time data processing and streaming technologies.
-- **UI/UX Design:** Crafting intuitive and engaging user experiences.
+# 👋 Hi, I'm Sasi Kumar Reddy D.
 
-I’m originally from Andhra Pradesh and currently residing in Chennai for my studies.
+I’m a **Software Engineer at Microsoft**, a recent BTech graduate from **IIT Madras**, and someone passionate about everything from backend development to networks and Linux systems. I love working with **Kafka**, building scalable solutions, and diving deep into the world of APIs and CI/CD pipelines.
 
-## 🛠️ My Tech Stack
-- **Languages:** C/C++, Java/Kotlin
-- **Command Line:** Linux Command Line
-Version Control & CI/CD: Git, Bitbucket & Pipelines
-- **Containerization:** Docker
-- **Build Tools:** Gradle
-- **Frameworks:** Spring Framework, Spring Boot
-- **Testing:** Mockito, MockK, Unit Testing, Mutation Testing
-- **Project Management:** Jira, Confluence, Trello and all wonderful Atlassian Tools
-- **APIs & Messaging:** REST API, Kafka, Kafka Streams
-- **Monitoring & Logging:** Splunk, SignalFx
+Originally from **Andhra Pradesh, India**, I now call **Bengaluru** home. 
 
-## 💼 My Work
-I completed a summer internship at Atlassian, where I focused on optimizing CI/CD pipelines and integrating mutation testing (PITest) into our repository. Additionally, I worked on enabling pollinators during soaking time.
+---
 
-Regarding my personal projects, I’ve been working on:
-- **Static Text Compression:** 
-- **Contacts Management System:**
+## 💼 Experience
 
-## 📫 Contact Me
-- **Email:** sasikumarreddyd166@gmail.com or sasikumarreddydoddamreddy@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sasi-kumar-reddy-doddamreddy/
+- **Software Engineer** — Microsoft India  
+  _June 2025 - Current_
 
-## ⚡ Fun facts:
-- **I’m an avid sports fan.** I love watching football and enjoy cricket as well. Both sports captivate me with their strategy and excitement.
-- **I’m passionate about testing new gadgets.** Whether it’s exploring the power management features of laptops, diving into the user interface and design of smartphones, or evaluating their camera performance, I enjoy getting hands-on with the latest technology.
+- **SDE Intern** — Atlassian India  
+  _May 2024 - July 2024_  
+  - Developed an orchestration engine with SDKs, APIs, and monitoring tools for seamless data migration (server-to-cloud & cloud-to-cloud).
+  - Integrated **PiTest** for mutation testing (achieving 85% coverage).
+  - Implemented Bitbucket CI/CD pipeline integrations for PR checks.
+  - Automated pre-deployment stability checks (Pollinators).
+  - **Tech Stack:** Java, Kotlin, Junit5, Mockito, MockK, PiTest, Spring Boot, Kafka Streams, CI/CD.
 
-<div align="center" style="font-weight: bold;">
-Thanks for visiting my profile! 😄
-</div>
+---
+
+## 🎓 Education
+
+**BTech in Computer Science & Engineering**  
+_IIT Madras | 2021 - 2025_
+
+**Relevant Coursework:**
+
+| **Course**                       | **Course**                          |
+|-----------------------------------|--------------------------------------|
+| Data Structures and Algorithms    | Operating Systems                   |
+| Computer Networks                 | Compiler Design                     |
+| Object-Oriented Programming (OOPS) | Pattern Recognition & Machine Learning |
+| Computer Organization, Architecture | Database Systems                  |
+| Probability & Statistics          | Design, Analysis of Algorithms      |
+
+---
+
+## 🚀 Projects
+
+- **EMG Signal Classification (Research)**  
+  Developed a 1D Dilated CNN for real-time EMG gesture classification (91.36% accuracy), with significant performance gains (from 90.69% to 97.24% on a subset of 5 gestures).
+
+- **Lossless Text Compression**  
+  Created an algorithm using Hoffmann Coding achieving ~45% average size reduction in text files.
+
+- **Realtime Chat Application**  
+  Built a TCP-based, multithreaded server-client chat app for seamless real-time communication.
+
+- **Memory Management Engine**  
+  Simulated OS memory management with paging, virtual memory, and LRU replacement.
+
+- **Music Streaming Application**  
+  Developed a TCP-based client-server music app, leveraging multithreading for concurrent users.
+
+- **MNIST Digit Recognition**  
+  Implemented dimensionality reduction (PCA and Kernel PCA from scratch), visualized data, and evaluated performance on MNIST.
+
+---
+
+## 🔨 Skills
+
+- **Languages:** C/C++, Java/Kotlin, Python  
+- **Command Line:** Linux CLI, Git, Bitbucket & Pipelines  
+- **Containerization:** Docker  
+- **Build Tools:** Gradle  
+- **Frameworks:** Spring Framework, Spring Boot  
+- **Testing:** Mockito, MockK, Unit Testing, Mutation Testing  
+- **Project Management:** Jira, Confluence, Trello  
+- **APIs & Messaging:** REST API, Kafka, Kafka Streams  
+- **Monitoring & Logging:** Splunk, SignalFx  
+
+---
+
+## 📬 Contact
+
+- **Email:** [sasikumarreddyd166@gmail.com](mailto:sasikumarreddyd166@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/sasi-kumar-reddy-doddamreddy](https://www.linkedin.com/in/sasi-kumar-reddy-doddamreddy/)  
+- **GitHub:** [github.com/Sasi-D](https://github.com/Sasi-D)  
+
+---
+
+## ⚡ Fun Facts
+
+⚽ I’m a sports enthusiast — football and cricket always keep me on my toes.  
+🔧 I love testing out new gadgets, from laptops to smartphones.  
+
+😁 Thanks for visiting my corner of the internet!  
