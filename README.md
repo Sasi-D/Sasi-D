@@ -4,7 +4,7 @@ I’m a **Software Engineer at Microsoft**, a recent BTech graduate from **IIT M
 
 Originally from **Andhra Pradesh, India**, I now call **Bengaluru** home. 
 
----
+
 
 ## 💼 Experience
 
@@ -19,7 +19,7 @@ Originally from **Andhra Pradesh, India**, I now call **Bengaluru** home.
   - Automated pre-deployment stability checks (Pollinators).
   - **Tech Stack:** Java, Kotlin, Junit5, Mockito, MockK, PiTest, Spring Boot, Kafka Streams, CI/CD.
 
----
+
 
 ## 🎓 Education
 
@@ -34,7 +34,7 @@ _IIT Madras | 2021 - 2025_
 | Computer Organization, Architecture | Database Systems                     |
 | Probability & Statistics          | Design, Analysis of Algorithms        |
 
----
+
 
 ## 🚀 Projects
 
@@ -56,7 +56,7 @@ _IIT Madras | 2021 - 2025_
 - **MNIST Digit Recognition**  
   Implemented dimensionality reduction (PCA and Kernel PCA from scratch), visualized data, and evaluated performance on MNIST.
 
----
+
 
 ## 🔨 Skills
 
@@ -70,7 +70,7 @@ _IIT Madras | 2021 - 2025_
 - **APIs & Messaging:** REST API, Kafka, Kafka Streams  
 - **Monitoring & Logging:** Splunk, SignalFx  
 
----
+
 
 ## 📬 Contact
 
@@ -78,16 +78,16 @@ _IIT Madras | 2021 - 2025_
 - **LinkedIn:** [linkedin.com/in/sasi-kumar-reddy-doddamreddy](https://www.linkedin.com/in/sasi-kumar-reddy-doddamreddy/)  
 - **GitHub:** [github.com/Sasi-D](https://github.com/Sasi-D)  
 
----
+
 
 ## ⚡ Fun Facts
 
 ⚽ I’m a sports enthusiast — football and cricket always keep me on my toes.  
 🔧 I love testing out new gadgets, from laptops to smartphones.  
 
----
 
-<div align="center">
+
+<div align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; font-size: 1.2em; font-weight: bold;">
 
 😁 Thanks for visiting my corner of the internet!  
 
